@@ -1,7 +1,7 @@
 
 package atividaderelacao;
 
-public class Funcionario {
+public class Funcionario extends Pessoa{
     private int codFuncionario;
     private String setor;
     private Banco banco;
